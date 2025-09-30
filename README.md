@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I’m David Karseladze 👋
+
+## 🚀 Full Stack Developer
+
+- 💻 Passionate about all things JavaScript: React, Node.js, AWS, and even dabbling in React Native CLI.
+- 🌍 Building scalable web solutions and always hungry to learn new tech.
+
+---
+
+## ⚡ About Me
+
+- ⚽ Big football fan — both playing and watching!
+- 🇪🇸 Enthusiast of Spanish culture and language.
+- 📚 Avid reader, always with a book at hand.
+
+---
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
+![React Native](https://img.shields.io/badge/-React%20Native-333?style=flat&logo=react)
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-David%20Karseladze-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/david-karseladze/)
+
+---
 
 <!--
-**DatQarseladze/DatQarseladze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**DatQarseladze/DatQarseladze** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

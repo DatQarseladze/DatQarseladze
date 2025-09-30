@@ -1,6 +1,4 @@
-# Hi, I’m David Karseladze 👋
-
-## 🚀 Full Stack Developer
+# Davit Karseladze -  Full Stack Developer 
 
 - 💻 Passionate about all things JavaScript: React, Node.js, AWS, and even dabbling in React Native CLI.
 - 🌍 Building scalable web solutions and always hungry to learn new tech.

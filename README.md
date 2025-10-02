@@ -9,7 +9,7 @@
 
 ⚽ Big football fan — both playing and watching!
 🇪🇸 Enthusiast of Spanish culture and language.
-📚 Avid reader, always with a book at hand.
+📚 Avid reader.
 
 ---
 

@@ -7,7 +7,7 @@
 
 ## ⚡ About Me
 
-⚽ Big football fan — both playing and watching!
+⚽ Big football fan.
 🇪🇸 Enthusiast of Spanish culture and language.
 📚 Avid reader.
 

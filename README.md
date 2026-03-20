@@ -1,6 +1,6 @@
 # Davit Karseladze -  Full Stack Developer 
 
-💻 Passionate about all things JavaScript: React, Node.js, AWS, and even dabbling in React Native CLI.
+💻 Passionate about all things JavaScript: React, Node.js, React Native CLI and AWS
 🌍 Building scalable web solutions and always hungry to learn new tech.
 
 ---

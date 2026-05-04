@@ -17,6 +17,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-333?style=flat&logo=angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
 ![React Native](https://img.shields.io/badge/-React%20Native-333?style=flat&logo=react)
